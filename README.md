@@ -5,7 +5,6 @@ Natural language processing (NLP) is a subfield of linguistics, computer science
 "Challenges in natural language processing frequently involve speech recognition,
 natural language understanding, and natural language generation".
 
-![nlps](https://user-images.githubusercontent.com/89722385/132051678-212057da-3321-40f4-a861-840c5a89b4bf.jpg)
 
 
 
